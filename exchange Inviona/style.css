@@ -1,0 +1,41 @@
+body{
+    background-image: url(bg\ exchange.jpg);
+    color: white;
+}
+label, button{
+    display: flex;
+    
+}
+.container{
+    margin: 200px 38% 120px  38% ;
+}
+label{
+    padding: 10px;
+    margin: 20px;
+    width: 170px;
+}
+input{
+    margin: 10px;
+}
+#leke{
+    margin-left: 50px;
+    max-width: 210px;
+}
+#euro{
+    margin-left: 49px;
+    max-width: 210px;
+}
+#dollar{
+    margin-left: 40px;
+    max-width: 210px;
+}
+#fr{
+    margin-left: 10px;
+    max-width: 210px;
+}
+#konvert{
+    margin-left: 110px;
+    margin-top: 30px;
+    max-width: 210px;
+    padding: 5px 40px 5px 40px;
+}
